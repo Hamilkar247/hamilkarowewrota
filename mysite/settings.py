@@ -25,7 +25,7 @@ SECRET_KEY = 'wj@7*9z2&8*lxf+s8rd560&l0#*qmr)&z&^#1t&=nggx-ypd%#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['104.248.28.175','hamilkarowewrota.xyz']
 
 
 # Application definition
